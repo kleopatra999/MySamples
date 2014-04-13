@@ -1,6 +1,5 @@
 # some IDE config files
-**/.idea/workspace.xml
-**/.idea/tasks.xml
+.idea
 
 # Logs
 logs
